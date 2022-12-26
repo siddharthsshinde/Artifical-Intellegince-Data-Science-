@@ -1,2 +1,2 @@
-# Artifical-Intellegince-Data-Science-
+# Artifical-Intellegince And Data-Science
 SPPU (2022)
